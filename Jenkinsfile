@@ -23,7 +23,7 @@ pipeline {
                     bat "dotnet test --no-restore --configuration Release"
                 }
             }
-        }
+        
 
         stage('Publish') {
             steps {
