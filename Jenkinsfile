@@ -51,7 +51,7 @@ pipeline {
                 )
 
                 # Map the shared folder to a drive (X:)
-                New-PSDrive -Name X -PSProvider FileSystem -Root "\\\\111.233.83.33\\Courseapp" -Persist -Credential $credentials
+                New-PSDrive -Name X -PSProvider FileSystem -Root "\\\\194.233.83.33\\Courseapp" -Persist -Credential $credentials
 
                 # Copy published files to the mapped drive
                 Copy-Item -Path ".\\publish\\*" -Destination "X:\\" -Recurse -Force
