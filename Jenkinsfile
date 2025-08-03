@@ -34,6 +34,25 @@ pipeline {
             }
         }
     }
+    stage('Deploy to Remote Server') {
+    steps {
+        withCredentials([usernamePassword(credentialsId: 'remoteuser', usernameVariable: 'USER', passwordVariable: 'PASS')]) {
+            script {
+                def publishDir = "${WORKSPACE}\\publish"
+                def remotePath = "C:\WebsiteContent\Courseapp"
+
+                bat """
+                powershell -Command "Invoke-Command -ComputerName 194.233.83.33 -ScriptBlock {
+                    param([string]$path)
+                    if (!(Test-Path $path)) { New-Item -ItemType Directory -Path $path }
+                } -ArgumentList '${remotePath}' -Credential (New-Object System.Management.Automation.PSCredential('${USER}', (ConvertTo-SecureString '${PASS}' -AsPlainText -Force)))"
+
+                powershell -Command "Copy-Item '${publishDir}\\*' -Destination '\\\\194.233.83.33\\${remotePath}' -Recurse -Force"
+                """
+            }
+        }
+    }
+}
 
     post {
         success {
