@@ -1,0 +1,414 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\avinashwork\\aspnetprojects\\courseproject-fullcrud\\courseproject\\webapp\\model\\employeesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\model\\employeesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\avinashwork\\aspnetprojects\\courseproject-fullcrud\\courseproject\\webapp\\pages\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\avinashwork\\aspnetprojects\\courseproject-fullcrud\\courseproject\\webapp\\pages\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\avinashwork\\aspnetprojects\\courseproject-fullcrud\\courseproject\\webapp\\pages\\employees\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\employees\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\avinashwork\\aspnetprojects\\courseproject-fullcrud\\courseproject\\webapp\\pages\\employees\\_employeedetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\employees\\_employeedetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\avinashwork\\aspnetprojects\\courseproject-fullcrud\\courseproject\\webapp\\pages\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\avinashwork\\aspnetprojects\\courseproject-fullcrud\\courseproject\\webapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\avinashwork\\aspnetprojects\\courseproject-fullcrud\\courseproject\\webapp\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\avinashwork\\aspnetprojects\\courseproject-fullcrud\\courseproject\\webapp\\pages\\employees\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\employees\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\avinashwork\\aspnetprojects\\courseproject-fullcrud\\courseproject\\webapp\\helpers\\modelstatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\helpers\\modelstatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\avinashwork\\aspnetprojects\\courseproject-fullcrud\\courseproject\\webapp\\views\\departments\\_departmentdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\departments\\_departmentdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\avinashwork\\aspnetprojects\\courseproject-fullcrud\\courseproject\\webapp\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\avinashwork\\aspnetprojects\\courseproject-fullcrud\\courseproject\\webapp\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\avinashwork\\aspnetprojects\\courseproject-fullcrud\\courseproject\\webapp\\views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\avinashwork\\aspnetprojects\\courseproject-fullcrud\\courseproject\\webapp\\pages\\employees\\departmentemployees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\employees\\departmentemployees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\avinashwork\\aspnetprojects\\courseproject-fullcrud\\courseproject\\webapp\\pages\\employees\\departmentemployees.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\employees\\departmentemployees.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\avinashwork\\aspnetprojects\\courseproject-fullcrud\\courseproject\\webapp\\pages\\shared\\components\\employeelist\\employeelistviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\shared\\components\\employeelist\\employeelistviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\avinashwork\\aspnetprojects\\courseproject-fullcrud\\courseproject\\webapp\\pages\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\employees\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\avinashwork\\aspnetprojects\\courseproject-fullcrud\\courseproject\\webapp\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\avinashwork\\aspnetprojects\\courseproject-fullcrud\\courseproject\\webapp\\pages\\shared\\components\\employeelist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\shared\\components\\employeelist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\avinashwork\\aspnetprojects\\courseproject-fullcrud\\courseproject\\webapp\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\avinashwork\\aspnetprojects\\courseproject-fullcrud\\courseproject\\webapp\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\avinashwork\\aspnetprojects\\courseproject-fullcrud\\courseproject\\webapp\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|c:\\avinashwork\\aspnetprojects\\courseproject-fullcrud\\courseproject\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183B13F5-E08E-406D-BE22-8BC7CB1947FC}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T15:43:15.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\Employees\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Employees\\Edit.cshtml.cs",
+              "ToolTip": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\Employees\\Edit.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Employees\\Edit.cshtml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:45:41.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\Error.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T17:36:52.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:36:55.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_EmployeeDetail.cshtml",
+              "DocumentMoniker": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\Employees\\_EmployeeDetail.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Employees\\_EmployeeDetail.cshtml",
+              "ToolTip": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\Employees\\_EmployeeDetail.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Employees\\_EmployeeDetail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T15:48:07.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\Employees\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Employees\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T17:36:01.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesRepository.cs",
+              "DocumentMoniker": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Model\\EmployeesRepository.cs",
+              "RelativeDocumentMoniker": "WebApp\\Model\\EmployeesRepository.cs",
+              "ToolTip": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Model\\EmployeesRepository.cs",
+              "RelativeToolTip": "WebApp\\Model\\EmployeesRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBUAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:08:58.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\Employees\\Create.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T15:41:56.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\Employees\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Employees\\Create.cshtml.cs",
+              "ToolTip": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\Employees\\Create.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Employees\\Create.cshtml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:13:05.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_DepartmentDetail.cshtml",
+              "DocumentMoniker": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Views\\Departments\\_DepartmentDetail.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Departments\\_DepartmentDetail.cshtml",
+              "ToolTip": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Views\\Departments\\_DepartmentDetail.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Departments\\_DepartmentDetail.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T15:56:44.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ModelStateHelper.cs",
+              "DocumentMoniker": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Helpers\\ModelStateHelper.cs",
+              "RelativeDocumentMoniker": "WebApp\\Helpers\\ModelStateHelper.cs",
+              "ToolTip": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Helpers\\ModelStateHelper.cs",
+              "RelativeToolTip": "WebApp\\Helpers\\ModelStateHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:41:25.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T17:48:35.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Views\\Departments\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Departments\\Details.cshtml",
+              "ToolTip": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Views\\Departments\\Details.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Departments\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T15:41:00.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Views\\Departments\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Departments\\Create.cshtml",
+              "ToolTip": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Views\\Departments\\Create.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Departments\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T15:40:58.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DepartmentEmployees.cshtml",
+              "DocumentMoniker": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\Employees\\DepartmentEmployees.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Employees\\DepartmentEmployees.cshtml",
+              "ToolTip": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\Employees\\DepartmentEmployees.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Employees\\DepartmentEmployees.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T15:40:26.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeListViewComponent.cs",
+              "DocumentMoniker": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\Shared\\Components\\EmployeeList\\EmployeeListViewComponent.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Shared\\Components\\EmployeeList\\EmployeeListViewComponent.cs",
+              "ToolTip": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\Shared\\Components\\EmployeeList\\EmployeeListViewComponent.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Shared\\Components\\EmployeeList\\EmployeeListViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:44:19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DepartmentEmployees.cshtml.cs",
+              "DocumentMoniker": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\Employees\\DepartmentEmployees.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Employees\\DepartmentEmployees.cshtml.cs",
+              "ToolTip": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\Employees\\DepartmentEmployees.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Employees\\DepartmentEmployees.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:54:18.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Views\\Departments\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Departments\\Index.cshtml",
+              "ToolTip": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Views\\Departments\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Departments\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T17:03:47.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\Employees\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Employees\\Index.cshtml.cs",
+              "ToolTip": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\Employees\\Index.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Employees\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:00:22.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\Shared\\Components\\EmployeeList\\Default.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Shared\\Components\\EmployeeList\\Default.cshtml",
+              "ToolTip": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\Shared\\Components\\EmployeeList\\Default.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Shared\\Components\\EmployeeList\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T17:43:44.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T17:44:29.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Navbar.cshtml",
+              "DocumentMoniker": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_Navbar.cshtml",
+              "ToolTip": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Shared\\_Navbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T17:46:24.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:32:20.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApp\\Model\\Employee.cs",
+              "ToolTip": "C:\\AvinashWork\\AspNETProjects\\CourseProject-FullCRUD\\CourseProject\\WebApp\\Model\\Employee.cs",
+              "RelativeToolTip": "WebApp\\Model\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAMBBwBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:21:08.542Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
