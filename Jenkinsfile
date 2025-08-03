@@ -39,7 +39,7 @@ pipeline {
         withCredentials([usernamePassword(credentialsId: 'remoteuser', usernameVariable: 'USER', passwordVariable: 'PASS')]) {
             script {
                 def publishDir = "${WORKSPACE}\\publish"
-                def remotePath = "C:\WebsiteContent\Courseapp"
+                def remotePath = "C:\\WebsiteContent\\Courseapp"
 
                 bat """
                 powershell -Command "Invoke-Command -ComputerName 194.233.83.33 -ScriptBlock {
