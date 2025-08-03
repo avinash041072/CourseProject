@@ -23,7 +23,7 @@ pipeline {
                     bat "dotnet test --no-restore --configuration Release"
                 }
             }
-        
+        } // ✅ This closing brace was missing!
 
         stage('Publish') {
             steps {
@@ -33,30 +33,31 @@ pipeline {
                 archiveArtifacts artifacts: 'publish/**/*', fingerprint: true
             }
         }
-    }
-    stage('Deploy to Remote Server') {
-    steps {
-        withCredentials([usernamePassword(credentialsId: 'remoteuser', usernameVariable: 'USER', passwordVariable: 'PASS')]) {
-            script {
-                def publishDir = "${WORKSPACE}\\publish"
-                def remotePath = "C:\\WebsiteContent\\Courseapp"
 
-                bat """
-                powershell -Command "Invoke-Command -ComputerName 194.233.83.33 -ScriptBlock {
-                    param([string]$path)
-                    if (!(Test-Path $path)) { New-Item -ItemType Directory -Path $path }
-                } -ArgumentList '${remotePath}' -Credential (New-Object System.Management.Automation.PSCredential('${USER}', (ConvertTo-SecureString '${PASS}' -AsPlainText -Force)))"
+        stage('Deploy to Remote Server') {
+            steps {
+                withCredentials([usernamePassword(credentialsId: 'remoteuser', usernameVariable: 'USER', passwordVariable: 'PASS')]) {
+                    script {
+                        def publishDir = "${WORKSPACE}\\publish"
+                        def remotePath = "C:\\\\WebsiteContent\\\\Courseapp"  // escaped backslashes
 
-                powershell -Command "Copy-Item '${publishDir}\\*' -Destination '\\\\194.233.83.33\\${remotePath}' -Recurse -Force"
-                """
+                        bat """
+                        powershell -Command "Invoke-Command -ComputerName 194.233.83.33 -ScriptBlock {
+                            param([string]`$path)
+                            if (!(Test-Path `$path)) { New-Item -ItemType Directory -Path `$path }
+                        } -ArgumentList '${remotePath}' -Credential (New-Object System.Management.Automation.PSCredential('${USER}', (ConvertTo-SecureString '${PASS}' -AsPlainText -Force)))"
+
+                        powershell -Command "Copy-Item -Path '${publishDir}\\*' -Destination '${remotePath}' -Recurse -Force"
+                        """
+                    }
+                }
             }
         }
     }
-}
 
     post {
         success {
-            echo '✅ Build, test, and publish successful!'
+            echo '✅ Build, test, publish, and deploy successful!'
         }
         failure {
             echo '❌ Build failed.'
